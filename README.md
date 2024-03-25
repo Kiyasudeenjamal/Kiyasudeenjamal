@@ -4,8 +4,10 @@ Welcome to my GitHub profile!
 
 ## About Me ℹ️
 
-I'm an aspiring data analyst passionate about extracting insights from data to drive informed decisions. With a background in MCA, 
-I'm eager to apply my analytical skills to real-world projects and contribute to data-driven solutions.
+# About Me
+
+I'm an aspiring data analyst with an MCA background, currently offered in INFOSYS. Passionate about extracting insights from data to drive informed decisions. Eager to apply analytical skills to real-world projects and contribute to data-driven solutions.
+
 
 ## Skills 🛠️
 

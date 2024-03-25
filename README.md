@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello, I'm KIYASUDEEN JAMAL M! 👋
+Welcome to my GitHub profile!
 
-<!--
-**Kiyasudeenjamal/Kiyasudeenjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me ℹ️
+I'm an aspiring data analyst passionate about extracting insights from data to drive informed decisions. With a background in MCA, I'm eager to apply my analytical skills to real-world projects and contribute to data-driven solutions.
 
-Here are some ideas to get you started:
+Skills 🛠️
+Data Analysis: Proficient in data cleaning, visualization, and interpretation.
+Programming Languages: Experienced in  Python, SQL.
+Tools: Familiar with tools like Excel,Mysql,Pycharm and Power BI.
+Statistical Analysis: Basic understanding of statistical concepts and techniques.
+Problem-Solving: Strong problem-solving skills and attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Get in Touch 📫
+Email:kiyasudeenjamalm@gmail.com
+Let's connect and explore opportunities in the world of data analysis together!

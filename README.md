@@ -16,11 +16,13 @@ I'm an aspiring data analyst with an MCA background. Passionate about extracting
 - **Tools:** Familiar with tools like Excel, Mysql, Pycharm and Power BI.
 - **Statistical Analysis:** Basic understanding of statistical concepts and techniques.
 - **Problem-Solving:** Strong problem-solving skills and attention to detail.
+- **Machine Learning:** Knowledgeable in machine learning concepts, including regression, classification, clustering, and neural networks. 
 
 
 
 ## Get in Touch 📫
 
 - Email: kiyasudeenjamalm@gmail.com
+- Linkedin: https://www.linkedin.com/in/kiyasjamal/
 
 Let's connect and explore opportunities in the world of data analysis together!
